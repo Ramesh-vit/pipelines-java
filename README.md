@@ -31,4 +31,4 @@ Microsoft and any contributors reserve all others rights, whether under their re
 or trademarks, whether by implication, estoppel or otherwise.
 
 
-[![Build Status](https://dev.azure.com/rameshvit/TestProject/_apis/build/status/Ramesh-vit.pipelines-java?branchName=master)](https://dev.azure.com/rameshvit/TestProject/_build/latest?definitionId=2&branchName=master)
+https://dev.azure.com/rameshvit/TestProject/_apis/build/status/Ramesh-vit.pipelines-java?branchName=master)](https://dev.azure.com/rameshvit/TestProject/_build/latest?definitionId=2&branchName=master
